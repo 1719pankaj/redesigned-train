@@ -1,0 +1,10 @@
+fatal: not a git repository (or any of the parent directories): .git
+Traceback (most recent call last):
+  File "/home/ubuntu/gitshit/iShitYouNot.py", line 10, in <module>
+    with open(file_path, "r") as file:
+         ^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'README.md'
+Logged last commit details to commit_log.md
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+Logged last commit details to commit_log.md
