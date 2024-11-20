@@ -5,6 +5,9 @@ commit_count=$(git rev-list --count HEAD)
 new_commit_number=$((commit_count + 1))
 commit_message="Auto commit #$new_commit_number"
 
+#Run eneumerator
+python3 /home/ubuntu/gitshit/iShitYouNot.py
+
 # Log file
 log_file="commit_log.md"
 
