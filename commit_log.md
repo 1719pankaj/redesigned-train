@@ -2854,3 +2854,24 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+fatal: Unable to create '/home/ubuntu/gitshit/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main aea7ee3] Auto commit #229
+ 3 files changed, 48 insertions(+), 3 deletions(-)
+Everything up-to-date
+Successfully committed and pushed with message: 'Auto commit #229'
+
+
+---
+
+
+
+
+---
+
+
