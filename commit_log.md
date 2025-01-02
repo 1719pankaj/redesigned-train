@@ -3469,3 +3469,55 @@ an editor opened by 'git commit'. Please make sure all processes
 are terminated then try again. If it still fails, a git process
 may have crashed in this repository earlier:
 remove the file manually to continue.
+fatal: Unable to create '/home/ubuntu/gitshit/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+fatal: Unable to create '/home/ubuntu/gitshit/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+[main 9009804] Auto commit #275
+ 3 files changed, 54 insertions(+), 2 deletions(-)
+To https://github.com/1719pankaj/redesigned-train.git
+   2189666..9009804  main -> main
+To https://github.com/1719pankaj/redesigned-train.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 900980489bf956df214a92a66866a08622b1b85e but expected 218966699ec61cf9f9dddb335dfcfec3b3b2cf89)
+error: failed to push some refs to 'https://github.com/1719pankaj/redesigned-train.git'
+To https://github.com/1719pankaj/redesigned-train.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 900980489bf956df214a92a66866a08622b1b85e but expected 218966699ec61cf9f9dddb335dfcfec3b3b2cf89)
+error: failed to push some refs to 'https://github.com/1719pankaj/redesigned-train.git'
+Successfully committed and pushed with message: 'Auto commit #275'
+Successfully committed and pushed with message: 'Auto commit #275'
+Successfully committed and pushed with message: 'Auto commit #275'
+
+
+---
+
+
+
+
+---
+
+
+
+
+---
+
+
+
+
+---
+
+
+
+
+---
+
+
