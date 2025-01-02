@@ -3521,3 +3521,27 @@ Successfully committed and pushed with message: 'Auto commit #275'
 ---
 
 
+fatal: Unable to create '/home/ubuntu/gitshit/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   commit_log.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[main f6747af] Auto commit #276
+ 2 files changed, 55 insertions(+)
+
+
+---
+
+
